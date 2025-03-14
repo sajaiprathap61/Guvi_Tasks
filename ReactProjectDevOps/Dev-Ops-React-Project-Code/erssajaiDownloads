@@ -1,0 +1,29 @@
+[33mcommit 25bce21c2cc3e4be764391d43c02202453749443[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sajai Prathap <sajaiprathapkp@gmail.com>
+Date:   Mon Feb 17 00:41:05 2025 +0530
+
+    deploy.sh script changes for deployment
+
+[33mcommit dff34e92cdcfa2663ac1f60269b6c350afb138fd[m
+Author: Sajai Prathap <sajaiprathapkp@gmail.com>
+Date:   Mon Feb 17 00:32:34 2025 +0530
+
+    Jenkins file configuration changes and changes in docker file
+
+[33mcommit f2689ac24d10e53f004973692c5d367358255261[m
+Author: root <root@ip-172-31-19-188.ap-southeast-1.compute.internal>
+Date:   Sat Feb 15 07:27:27 2025 +0000
+
+    Added Jenkins file to the project
+
+[33mcommit aef6b7fff4b74180dedbe789b5ab9e1a4a60ff66[m[33m ([m[1;31morigin/prod[m[33m)[m
+Author: root <root@ip-172-31-19-188.ap-southeast-1.compute.internal>
+Date:   Sat Feb 15 05:58:04 2025 +0000
+
+    react project
+
+[33mcommit ef4473062356b14dac1c853e982a5f7cec6fb982[m
+Author: sriram radhakrishnan <122258501+sriram-R-krishnan@users.noreply.github.com>
+Date:   Sat Jan 6 10:13:31 2024 +0530
+
+    Add files via upload
